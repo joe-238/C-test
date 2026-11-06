@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 /*
 (a) Write a program that reads a message, then prints the reversal of the message:

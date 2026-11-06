@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 #include <ctype.h>
 
 /*
@@ -26,7 +25,6 @@ int main(void)
     // Find the last character
     for (j = 0; message[j] != '\0'; j++)
         ;
-
     j--;
 
     // Compare letters from both ends
